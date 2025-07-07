@@ -1,0 +1,36 @@
+{
+  "name": "Codychat",
+  "short_name": "Codychat",
+  "description": "Codychat is a great script build in php",
+  "start_url": "http://localhost/chat/index.php",
+  "scope": "http://localhost/chat/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+	{
+	  "purpose": "maskable",
+	  "src": "http://localhost/chat/default_images/pwa/icon_96.png?v=1.55",
+	  "sizes": "96x96",
+	  "type": "image/png"
+	},
+	{
+	  "purpose": "maskable",	
+	  "src": "http://localhost/chat/default_images/pwa/icon_128.png?v=1.55",
+	  "sizes": "128x128",
+	  "type": "image/png"
+	},
+	{
+	  "purpose": "maskable",
+	  "src": "http://localhost/chat/default_images/pwa/icon_192.png?v=1.55",
+	  "sizes": "192x192",
+	  "type": "image/png"
+	},
+	{
+	  "purpose": "maskable",
+	  "src": "http://localhost/chat/default_images/pwa/icon_512.png?v=1.55",
+	  "sizes": "512x512",
+	  "type": "image/png"
+	}
+  ]
+}

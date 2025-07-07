@@ -1,0 +1,15 @@
+<option <?php echo selCurrent($boom, ''); ?> value="">Normal</option>
+<option <?php echo selCurrent($boom, 'bfont1'); ?> value="bfont1">Kalam</option>
+<option <?php echo selCurrent($boom, 'bfont2'); ?> value="bfont2">Signika</option>
+<option <?php echo selCurrent($boom, 'bfont3'); ?> value="bfont3">Grandmaster</option>
+<option <?php echo selCurrent($boom, 'bfont4'); ?> value="bfont4">Comic neue</option>
+<option <?php echo selCurrent($boom, 'bfont5'); ?> value="bfont5">Quicksand</option>
+<option <?php echo selCurrent($boom, 'bfont6'); ?> value="bfont6">Orbitron</option>
+<option <?php echo selCurrent($boom, 'bfont7'); ?> value="bfont7">Lemonada</option>
+<option <?php echo selCurrent($boom, 'bfont8'); ?> value="bfont8">Grenze Gotisch</option>
+<option <?php echo selCurrent($boom, 'bfont9'); ?> value="bfont9">Merienda</option>
+<option <?php echo selCurrent($boom, 'bfont10'); ?> value="bfont10">Amita</option>
+<option <?php echo selCurrent($boom, 'bfont11'); ?> value="bfont11">Averia Libre</option>
+<option <?php echo selCurrent($boom, 'bfont12'); ?> value="bfont12">Turret Road</option>
+<option <?php echo selCurrent($boom, 'bfont13'); ?> value="bfont13">Sansita</option>
+<option <?php echo selCurrent($boom, 'bfont14'); ?> value="bfont14">Comfortaa</option>

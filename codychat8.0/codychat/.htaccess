@@ -1,0 +1,4 @@
+Options -Indexes
+RewriteEngine on
+IndexIgnore *
+RewriteRule ^room([0-9]+)$ index.php?room=$1 [QSA]

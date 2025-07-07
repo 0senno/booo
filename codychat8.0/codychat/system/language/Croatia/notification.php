@@ -1,0 +1,36 @@
+<?php
+$nlang['like'] = 'Reagirao/la je na jednu vašu objavu';
+$nlang['reply'] = 'Korisnik je komentarisao/la jedanu vašu objavu';
+$nlang['add_post'] = 'Objavio/la nešto na zidu';
+$nlang['accept_friend'] = 'Prihvatio/la je zahtjev za prijateljstvo';
+$nlang['word_mute'] = 'Trenutno imate zabranu %delay% razlog loš riječnik';
+$nlang['flood_mute'] = 'Vaš korisnički račun je zabranjen %delay% zbog nedozvoljene akcije flodanje';
+$nlang['spam_mute'] = 'Trenutno imate zabranu %delay% razlog spamovanje';
+$nlang['rank_change'] = 'Vaš čin je promjenjen i trenutno imate novi čin %rank%';
+$nlang['mute'] = 'Trenutno imate zabranu za konverzaciju %delay%';
+$nlang['unmute'] = 'Vaš korisnički račun je odblokiran za konverzaciju';
+$nlang['name_change'] = 'je promjenio/la vaše korisničko ime na %data%';
+$nlang['prolike'] = 'Lajkao je vaš profil';
+$nlang['main_mute'] = 'Isključen vam je zvuk u glavnom chatu za %delay%';
+$nlang['private_mute'] = 'Privatno ste isključeni za %delay%';
+$nlang['main_unmute'] = 'Uključen vam je zvuk u glavnom chatu';
+$nlang['private_unmute'] = 'Vaš privatni zvuk je uključen';
+$nlang['gold_share'] = 'Podijelio je %data% zlato s tobom';
+$nlang['gift'] = 'Poslao vam je dar';
+$nlang['vipgift'] = 'Poslao vam je vip članstvo';
+$nlang['vipsys'] = 'Vašem je računu dodano vip članstvo';
+$nlang['custom'] = '%custom%';
+$nlang['mcall'] = 'Propušten poziv';
+$nlang['ruby_share'] = 'podijelio/la je %data% rubina s vama';
+$nlang['level'] = 'Super! Dosegli ste XP razinu %data%';
+$nlang['badge_ruby'] = 'Osvojili ste oznaku Rubinski trgovac razina %data%';
+$nlang['badge_member'] = 'Osvojili ste oznaku Član zajednice';
+$nlang['badge_chat'] = 'Osvojili ste oznaku Aktivni član razina %data%';
+$nlang['badge_auth'] = 'Osvojili ste oznaku Provjereni član';
+$nlang['badge_gift'] = 'Osvojili ste oznaku Čuvar poklona razina %data%';
+$nlang['badge_like'] = 'Osvojili ste oznaku Omiljeni član razina %data%';
+$nlang['badge_friend'] = 'Osvojili ste oznaku Prijateljski član razina %data%';
+$nlang['badge_gold'] = 'Osvojili ste oznaku Zlatni trgovac razina %data%';
+$nlang['badge_beat'] = 'Osvojili ste oznaku Posvećeni član razina %data%';
+$nlang['badge_top'] = 'Osvojili ste oznaku Najbolji pobjednik razina %data%';
+?>

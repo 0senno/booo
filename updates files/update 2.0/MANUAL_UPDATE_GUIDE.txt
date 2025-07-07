@@ -1,0 +1,63 @@
+*****************************************************
+Codychat manual update 2.0 instruction
+****************************************************
+
+if you do not have tryed the automatic update process please
+refer to the other file UPDATE_GUIDE.txt instruction. The
+current file is only for manual update process.
+
+step 1
+------
+
+prior to installation make sure you backup everything.
+
+step 2
+------
+
+remove the file.zip from the 2.0 folder
+
+step 3
+------
+
+upload the 2.0 folder to your chat "update" folder
+
+step 4
+------
+go into your admin panel in update section and run the update 2.0
+from you. If you do not see anymore the update 2.0 it mean that
+the update applyed correctly. if you receive a error please
+contact our support.
+
+step 5
+------
+
+unzip file.zip that you removed from the 2.0 folder and replace 
+all files in your chat directory.
+
+step 6
+------
+
+replace all addons that you have purchase with the 2.0 version
+of them that you have downloaded from the store. There is no need
+to uninstall addons simply replace files of addons.
+
+step 7
+------
+
+refresh the chat and admin panel and you should see a box apearing
+follow the box instructions. You can find the unlock key in your
+store account in the right side bar.
+
+step 8
+------
+
+refresh all pages to load 2.0 new core files.
+
+step 9
+------
+
+enjoy 2.0
+
+
+
+

@@ -1,0 +1,230 @@
+/**========================================================================
+* ?                                ABOUT
+* @author         :  8lackMask
+* @email          :  blackcodymask@gmail.com
+* @store          :  https://blackmask.codychat.store/
+* @product        :  Blue (theme)
+* @version        :  1.0
+*========================================================================**/
+
+/* custom font */
+@import url('./font/Roboto.css');
+
+/* general colors */
+a {color:orange;}
+#intro_top,body {background:#001628; color:#fff;font-family: 'Roboto', sans-serif;}
+button { background:transparent; color:#fff; }
+input, textarea, .post_input_container { background:#013259; border:1px solid #005397 !important; color:#fff; font-family: 'Roboto', sans-serif, 'FontAwesome';}
+.setdef { color:#fff; }
+
+/* cookie box */
+.cookie_wrap { background:#333; color:#fff; }
+
+/* item with background no effect */
+.bback { background:rgb(255,255,255,0.05); }
+
+/* item with background no effect with border */
+.bbackb { background:rgb(255,255,255,0.05); border:1px solid rgb(255,255,255,0.08); }
+
+/* item with no background and hover effect */
+.bhover:hover { background:rgb(255,255,255,0.05); }
+
+/* item with background and hover effect */
+.bbackhover { background:rgb(255,255,255,0.05); }
+.bbackhover:hover { background:rgb(255,255,255,0.03); }
+
+/* item width background and hover effect with a border */
+.bbackhoverb { background:rgb(255,255,255,0.05); }
+.bbackhoverb:hover { background:rgb(255,255,255,0.3); border:1px solid rgb(255,255,255,0.05); }
+
+/* item with no background with line separator and hover effect */
+.blisting { border-bottom: 1px solid rgb(255,255,255,0.03); }
+.blisting:hover { background: rgb(255,255,255,0.04); }
+
+/* item with no background with line separator */
+.blist { border-bottom: 1px solid rgb(255,255,255,0.03); }
+
+/* private panel top */
+.back_ptop { background:#00569b; color:#fff; }
+
+/* page menu & page sub menu */
+.bpmenu:hover { background: rgb(255,255,255,0.05); }
+.bsub { background:rgb(0,0,0,0.1); }
+.bsub:hover { background:rgb(255,255,255,0.03); }
+
+/* sub menus for card, logs, wall, news */
+.bmenu, .submenu { border-bottom:1px solid rgb(255,255,255,0.03); }
+.bmenu:hover, .submenu:hover { background:rgb(255,255,255,0.03); }
+
+/* box shadow */
+.bshadow, .page_element, .float_menu, .btnshadow, .pboxed { box-shadow:0 1px 3px rgb(0,0,0,0.4); }
+
+/* main item selected for panel and box */
+.bselected { background:rgb(255,255,255,0.08); }
+
+/* reg menu selected item */
+.rselected { background:rgb(255,255,255,0.08); }
+
+/* page selected */
+.pselected { color:#1e9aff; }
+
+/* current item selected selected */
+.cselected, .liked { background:rgb(255,255,255,0.05); }
+
+/* paginate item selected */
+.pag_btn { background:rgb(255,255,255,0.05); }
+.pagselected, .pag_btn:hover { background:rgb(255,255,255,0.1); }
+
+/* count and gold tag */
+.gtag { background:#001e37; border:1px solid rgb(255,255,255,0.05); }
+
+/* border color for separator and items border */
+.bborder { border-bottom:1px solid rgb(255,255,255,0.05); }
+.tborder { border-top:1px solid rgb(255,255,255,0.05); }
+.lborder, .ppanel { border-left:1px solid rgb(255,255,255,0.05); }
+.rborder { border-right:1px solid rgb(255,255,255,0.05); }
+.fborder { border:1px solid rgb(255,255,255,0.05); }
+
+/* float top color */
+.float_top { border-bottom:1px solid rgb(255,255,255,0.05); }
+.float_ctop { border-bottom:1px solid rgb(255,255,255,0.05); }
+
+/* headers, footer and top modal colors */
+.bhead { background:#001e37; color:#fff; }
+.modal_top { background:#001e37; color:#fff; }
+.pro_top { background:#001e37; color:#fff; }
+.bfoot { background:#001e37; color:#fff; }
+.foot { background:#001e37; color:#fff; }
+
+/* background major element panel, page menu, float menu, modal, chat boxes */
+.backglob { background:#013259; }
+.back_chat::before{content:'';position:absolute;left:0;width:100%;height:100%;background:url('./images/decoration.png');background-repeat:no-repeat;background-position:bottom -123px right;background-size:600px;opacity:1;box-shadow:inset 0 0 45px rgb(0,0,0,.271)}
+.back_chat { background:#013259; }
+.back_priv { background:#013259; }
+.back_panel { background:#003b6c; }
+.back_menu { background:#004884; }
+.back_pmenu { background:#013259; }
+.back_box { background:#02457d; }
+.back_input { background:#003b6c; border-top:1px solid rgb(255,255,255,0.05); }
+.back_modal { background:#003b6c; }
+.page_element { background:#003b6c; }
+.back_quote { background:#003b6c; }
+
+/* main theme color */
+.theme_color { color:#1e9aff; }
+.default_color { color:#3683c1; }
+.error  { color:#bf2c2c; }
+.success { color:#0f8c1d; }
+.warn { color:orange; }
+
+/* button colors */
+.theme_btn, .back_theme { background:#1e9aff; color:#fff; }
+.default_btn, .back_default { background:#005ca6; color:#fff; }
+.defaultd_btn { background:#001e37; color:#fff; }
+.ok_btn { background:#0f8c1d; color:#fff; }
+.warn_btn { background:orange; color:#fff; }
+.delete_btn { background:#bf2c2c; color:#fff; }
+.send_btn { color:#f6f6f6; }
+
+/* default username color */
+.user { color:#fff; }
+
+/* chat system messsage text color */
+.chat_system { color:#2576b9; }
+
+/* opacity for offline users in list */
+.offline { opacity:0.5; }
+
+/* menu icon */
+.menui { color:#1e9aff; }
+.subi { color:#1e9aff; }
+
+/* wall reply background */
+.reply_item { background:#013259; }
+
+/* main post item option wall and news */
+.main_post_item { color:rgb(255,255,255,0.5); }
+
+/* input option background colors */
+.input_item { color:#3683c1; }
+
+/* private log bubble colors */
+.target_private, .hunt_quote {color:#fff; background:#001e37;}
+.hunter_private, .targ_quote {color:#fff; background:#005397;}
+
+/* quote in chat background color */
+.cquote { background:rgb(255,255,255,0.05) !important; }
+.cqname { color:#fff; }
+.cqmess { color:#3683c1; }
+
+/* tab menu */
+.tab_menu { box-shadow:0 1px 3px rgb(0,0,0,0.4); background: #001e37;}
+.tab_selected { background:rgb(255,255,255,0.05); }
+
+/* modal menu */
+.modal_mback { background:rgb(255,255,255,0.04); }
+.modal_mborder { border-bottom: 1px solid rgb(255,255,255,0.08); }
+.modal_selected { background:rgb(255,255,255,0.08); }
+
+/* back transparency background for modal box */
+.modal_back { background-color:rgba(0,0,0,0.6); }
+
+/* chat logs */
+.log2 { background:rgb(0,0,0,0.05); }
+.topic_log { background:rgb(0,31,55,0.71); color:#fff; }
+.sys_log { }
+
+/* upload progress */
+.bprogress { background:#0f8c1d; color:#fff; }
+
+/* notification colors */
+.bnotify { background:red; color:#fff; }
+.foot_notify, .head_notify { border:1px solid #fff; }
+
+/* date colors */
+.sub_date  { color:#3f94d9; }
+.sub_chat, .sub_priv { color:#3683c1; }
+
+/* secondary text color */
+.sub_text, .list_mood  { color:#3f94d9; }
+
+/* profile likes */
+.plikes { background-color:rgba(100,100,100,0.2); color:#fff; }
+
+/* spinner color */
+.bspin { color:rgb(255,255,255,0.3); }
+
+/* special chat item */
+.my_notice { color:#fff; background:#1e9aff; }
+.system_text { background:rgb(255,255,255,0.05); color:#3f94d9; }
+
+/* outside pages background */
+.back_page { background:#001e37; color:#fff; }
+
+/* video background color */
+.post_video { background:rgb(0,0,0,1); }
+
+/* slider */
+.boom_slider .ui-widget-content { background: #333; }
+.boom_slider .ui-state-default { background: #ccc !important; }
+.boom_slider .ui-state-active { background: #ccc !important; }
+.boom_slider .ui-slider-range { background:#3683c1; }
+
+/* select input color */
+.selectboxit-list, .selectboxit-btn { background-color: #013259; border:1px solid #005397; color:#fff; }
+.selectboxit-list .selectboxit-focus .selectboxit-option-anchor { background-color: rgb(0,0,0,0.08); color:#fff; }
+.selectboxit-default-arrow { border-top: 4px solid #3683c1; }
+.selectboxit-btn.selectboxit-enabled:hover, .selectboxit-btn.selectboxit-enabled:focus, .selectboxit-btn.selectboxit-enabled:active { background:#013259; color:#fff; }
+.selectboxit-options { background:#01447a; color:#fff; }
+.selectboxit-list .selectboxit-option-anchor { color:#3683c1; }
+
+/* custom */
+.modal_in { border:1px solid rgb(255,255,255,0.01); } 
+
+/* responsive */
+@media screen and (max-width: 992px){
+    .back_chat::before{background-position:bottom -82px right;background-size:400px}
+}
+@media screen and (max-width: 768px){
+    .back_chat::before{background-position:top right;background-size:200px}
+}

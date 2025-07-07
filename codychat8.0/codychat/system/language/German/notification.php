@@ -1,0 +1,36 @@
+<?php
+$nlang['like'] = 'Hat auf deinen Beiträge reagiert';
+$nlang['reply'] = 'Hat deinen Beitrag kommentiert';
+$nlang['add_post'] = 'Hat etwas an die Wand gehängt';
+$nlang['accept_friend'] = 'Hat deine Freundschaftsanfrage angenommen';
+$nlang['word_mute'] = 'Du wurdest wegen Beschimpfungen für %delay% Stumm gestellt';
+$nlang['flood_mute'] = 'Du wurdest wegen Wiederholungen für %delay% Stumm gestellt';
+$nlang['spam_mute'] = 'Du wurdest stumm geschaltet %delay% wegen Spam';
+$nlang['rank_change'] = 'Dein Rang hat sich geändert, du bist jetzt ein anderer %rank%';
+$nlang['mute'] = 'Du wurdest stummgeschaltet für %delay%';
+$nlang['unmute'] = 'Du wurdest freigestellt';
+$nlang['name_change'] = 'Hat deinen Benutzernamen geändert als %data%';
+$nlang['prolike'] = 'Ihrem Konto wurde eine VIP-Mitgliedschaft hinzugefügt';
+$nlang['main_mute'] = 'Du wurdest im Hauptchat stummgeschaltet %delay%';
+$nlang['private_mute'] = 'Du wurdest privat stummgeschaltet %delay%';
+$nlang['main_unmute'] = 'Die Stummschaltung im Hauptchat wurde aufgehoben';
+$nlang['private_unmute'] = 'Die Stummschaltung Ihrer privaten Verbindung wurde aufgehoben';
+$nlang['gold_share'] = 'Hat geteilt %data% Gold mit dir';
+$nlang['gift'] = 'Hat dir ein Geschenk geschickt';
+$nlang['vipgift'] = 'Hat Ihnen eine VIP-Mitgliedschaft geschickt';
+$nlang['vipsys'] = 'Ihrem Konto wurde eine VIP-Mitgliedschaft hinzugefügt';
+$nlang['custom'] = '%custom%';
+$nlang['mcall'] = 'Entgangener Anruf';
+$nlang['ruby_share'] = 'hat %data% Rubine mit dir geteilt';
+$nlang['level'] = 'Großartig! Du hast das XP-Level %data% erreicht';
+$nlang['badge_ruby'] = 'Du hast das Rubin-Händler-Abzeichen Level %data% verdient';
+$nlang['badge_member'] = 'Du hast das Community-Mitglied-Abzeichen verdient';
+$nlang['badge_chat'] = 'Du hast das Aktives-Mitglied-Abzeichen Level %data% verdient';
+$nlang['badge_auth'] = 'Du hast das Verifiziertes-Mitglied-Abzeichen verdient';
+$nlang['badge_gift'] = 'Du hast das Geschenk-Verwalter-Abzeichen Level %data% verdient';
+$nlang['badge_like'] = 'Du hast das Beliebtes-Mitglied-Abzeichen Level %data% verdient';
+$nlang['badge_friend'] = 'Du hast das Freundliches-Mitglied-Abzeichen Level %data% verdient';
+$nlang['badge_gold'] = 'Du hast das Gold-Händler-Abzeichen Level %data% verdient';
+$nlang['badge_beat'] = 'Du hast das Engagiertes-Mitglied-Abzeichen Level %data% verdient';
+$nlang['badge_top'] = 'Du hast das Top-Gewinner-Abzeichen Level %data% verdient';
+?>

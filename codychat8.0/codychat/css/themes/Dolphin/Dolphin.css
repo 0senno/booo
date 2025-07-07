@@ -1,0 +1,242 @@
+/**========================================================================
+* ?                                ABOUT
+* @author         :  8lackMask
+* @email          :  blackcodymask@gmail.com
+* @store          :  https://blackmask.codychat.store/
+* @product        :  Dolphin (theme)
+* @version        :  1.0
+*========================================================================**/
+
+/* general colors */
+a {color:#ffb221;}
+body {background:#ededed; color:#333;}
+button { background:transparent; color:#fff; }
+input,textarea,.post_input_container{background:#ffff;border:1px solid #c7c8c9!important;border-radius:1px;}
+.setdef { color:#333; }
+
+/* item with background no effect */
+.bback { background:rgb(0,0,0,0.05); }
+
+/* item with background no effect with border */
+.bbackb { background:rgb(0,0,0,0.05); border:1px solid rgb(0,0,0,0.08); }
+
+/* item with no background and hover effect */
+.bhover:hover, .bhoverr:hover { background:rgb(0,0,0,0.05); }
+
+/* item with background and hover effect */
+.bbackhover { background:rgb(0,0,0,0.05); }
+.bbackhover:hover { background:rgb(0,0,0,0.025); }
+
+/* item width background and hover effect with a border */
+.bbackhoverb { background:rgb(0,0,0,0.05); }
+.bbackhoverb:hover { background:rgb(0,0,0,0.025); border:1px solid rgb(0,0,0,0.08); }
+
+/* item with no background with line separator and hover effect */
+.blisting { border-bottom: 1px solid rgb(0,0,0,0.08); }
+.blisting:hover { background: rgb(0,0,0,0.05); }
+
+/* item with no background with line separator */
+.blist { border-bottom: 1px solid rgb(0,0,0,0.08); }
+
+/* private panel top */
+.back_ptop{background:#8196ae;color:#fff}
+
+/* page menu & page sub menu */
+.bpmenu:hover { background: rgb(255,255,255,0.40); }
+.bsub { background:rgb(0,0,0,0.1); }
+.bsub:hover { background:rgb(0,0,0,0.2); }
+
+/* sub menus for card, logs, wall, news */
+.bmenu, .submenu { border-bottom:1px solid rgb(0,0,0,0.05); }
+.bmenu:hover, .submenu:hover { background:rgb(0,0,0,0.05); }
+
+/* box shadow */
+.bshadow, .page_element, .float_menu, .btnshadow, .pboxed { box-shadow:0 1px 3px rgb(0,0,0,0.2); }
+
+/* main item selected for panel and box */
+.bselected { background:rgb(0,0,0,0.08); }
+
+/* reg menu selected item */
+.rselected { background:rgb(0,0,0,0.08); }
+
+/* page selected */
+.pselected { color:#ff5c00; }
+
+/* current item selected */
+.cselected, .liked { background:rgb(0,0,0,0.10); }
+
+/* paginate item selected */
+.pag_btn { background:rgb(0,0,0,0.05); color:#666; }
+.pagselected, .pag_btn:hover { background:rgb(0,0,0,0.10); }
+
+/* count and gold tag */
+.gtag { background:#ff5c00; border:1px solid rgb(0,0,0,0.08); color: #fff; }
+
+/* border color for separator and items border */
+.bborder { border-bottom:1px solid rgb(0,0,0,0.08); }
+.tborder { border-top:1px solid rgb(0,0,0,0.08); }
+.lborder, .ppanel { border-left:1px solid rgb(0,0,0,0.08); }
+.rborder { border-right:1px solid rgb(0,0,0,0.08); }
+.fborder { border:1px solid rgb(0,0,0,0.08); }
+
+/* float top color */
+.float_top { border-bottom:1px solid rgb(0,0,0,0.08); }
+.float_ctop { border-bottom:1px solid rgb(0,0,0,0.08); }
+
+/* headers colors and top box colors */
+.bhead{background:#edf1f4;color:#3781dc;border-bottom:1px solid #c7c8c9;}
+.modal_top,.pro_top{background:#8196ae;color:#fff}
+.bfoot{background:#edf1f4;color:#3781dc;border-top:1px solid #c7c8c9;}
+.foot{background:#d9e4ea;border-top:1px solid #c7c8c9;color:#333;}
+
+/* background major element panel, page menu, float menu, modal, chat boxes */
+.backglob { background:#fff; }
+.back_chat { background:#fff; }
+.back_priv{background:#eaeff3}
+.back_panel{background:#d9e4ea;border-left:1px solid #fff;border-right:1px solid #fff;}
+.back_menu,.back_modal,.back_box,.page_element,.back_quote{background:#eaeff3;border:1px solid #c7c8c9;box-shadow:none;}
+.back_menu.card_menu{border:none;}
+.back_pmenu{background:#d9e4ea;color:#333}
+.back_input{background:linear-gradient(#f7f9fa,#b7c6d2 40px);border-top:1px solid #c7c8c9}
+
+/* main theme color */
+.theme_color { color:#ff5c00; }
+.default_color { color:#3781dc; }
+.error  { color:#e34343; }
+.success { color:#22a410; }
+.warn { color:#ffb221; }
+
+/* button colors */
+.theme_btn, .back_theme { background:#ff5c00; color:#fff; }
+.default_btn, .back_default { background:#3781dc; color:#fff; }
+.defaultd_btn { background:#3781dc; color:#fff; }
+.ok_btn { background:#22a410; color:#fff; }
+.warn_btn { background:orange; color:#fff; }
+.delete_btn { background:#e34343; color:#fff; }
+.send_btn { color:#ff5c00; }
+
+/* default username color */
+.user { color:#333; }
+
+/* chat system messsage text color */
+.chat_system { color:#999; }
+
+/* opacity for offline users in list */
+.offline { opacity:0.5; }
+
+/* menu icon */
+.menui { color:#ff5c00; }
+.subi { color:#ff5c00; }
+
+/* wall reply background */
+.reply_item { background:#f6f6f6; }
+
+/* main post item option wall and news */
+.main_post_item { color:rgb(0,0,0,0.5); }
+
+/* input option background colors */
+.input_item{color:#3781dc}
+
+/* private log bubble colors */
+.target_private, .hunt_quote {color:#fff; background:#3781dc;}
+.hunter_private, .targ_quote {color:#fff; background:#ff5c00;}
+
+.private_avatar{width:50px;}
+.outpriv .avatar_private{margin-right:auto;}
+.inpriv .avatar_private{margin-left:auto;}
+.prbox{position:relative;}
+.hunter_private::after{content:'';position:absolute;right:100%;top:12px;border-right:13px solid #e65300;border-bottom:13px solid transparent;}
+.target_private::after{content:'';position:absolute;left:100%;top:12px;border-left:13px solid #2c71c6;border-bottom:13px solid transparent;}
+.hunt_quote ~ .hunter_private::after,.targ_quote ~ .target_private::after{display:none;}
+
+/* quote in chat background */
+.cquote {  background:rgb(0,0,0,0.10) !important; border: 1px solid #c7c8c9;}
+.cqname { color:#000; }
+.cqmess { color:#666; }
+
+/* tab menu */
+.tab_menu{background:#fbfbfb;margin-bottom:0;}
+.tab_menu_item { }
+.tab_selected{background:rgb(0,0,0,.08);color:#333;}
+
+/* modal menu */
+.modal_mback { background:rgb(0,0,0,0.04); }
+.modal_mborder { border-bottom: 1px solid rgb(0,0,0,0.08); }
+.modal_selected { background:rgb(0,0,0,0.08); }
+
+/* back transparency background for modal box */
+.modal_back { background-color:rgba(0,0,0,0.4); }
+
+/* chat logs */
+.log2 { background:rgb(234,239,243,0.278); }
+.topic_log { background:#fffee3; color:#333; }
+.sys_log { }
+
+/* upload progress */
+.bprogress { background:#22a410; color:#fff; }
+
+/* notification colors */
+.bnotify { background:#ff6d1b; color:#fff; }
+.foot_notify, .head_notify { border:1px solid #fff; width: 12px;height: 12px;}
+
+/* date colors */
+.sub_date { color:#888; }
+.sub_chat, .sub_priv { color:#999; }
+
+/* secondary text color */
+.sub_text, .list_mood { color:#888; }
+
+/* profile likes */
+.plikes,.lite_olay { background-color:rgb(0,38,85,0.271); color:#fff; }
+
+/* spinner color */
+.bspin { color:rgb(0,0,0,0.3); }
+
+/* special chat item */
+.my_notice { color:#fff; background:#ff5c00; }
+.system_text { background:#ededed; color:#666; }
+
+/* outside pages background */
+.back_page { background:#222; color:#fff; }
+
+/* video background color */
+.post_video { background:rgb(0,0,0,1); }
+
+/* slider */
+.boom_slider .ui-widget-content { background: #fff; }
+.boom_slider .ui-state-default { background: #ff5c00 !important; }
+.boom_slider .ui-state-active { background: #ff6d1b !important; }
+.boom_slider .ui-slider-range { background:#ff5c00; }
+
+/* select input color */
+.selectboxit-list, .selectboxit-btn { background-color: #fff; color:#666;  border:1px solid #c7c8c9 !important; }
+.selectboxit-list .selectboxit-focus .selectboxit-option-anchor { background-color: #ededed; color:#666; }
+.selectboxit-default-arrow { border-top: 4px solid #666; }
+.selectboxit-btn.selectboxit-enabled:hover, .selectboxit-btn.selectboxit-enabled:focus, .selectboxit-btn.selectboxit-enabled:active { background:#f6f6f6; color:#666; }
+.selectboxit-options { background:#fff; border:1px solid #ccc; }
+.selectboxit-list .selectboxit-option-anchor { color:#666; }
+
+/* Element nice tab style */
+.panel_bar,.emo_head{background:#8196ae;border-bottom:1px solid #fff;color:#fff;padding:5px 0 5px;}
+.emo_head{padding:3px 0 0 10px;}
+.panel_option.bselected,.emo_menu_item.bselected,.emo_menu_item_priv.bselected{position:relative;color:#333;z-index:1;}
+.panel_option.bselected::after,.emo_menu_item.bselected::after,.emo_menu_item_priv.bselected::after{content:'';position:absolute;top:0;left:0;z-index:-1;width:100%;height:113%;background:#d9e4ea;border:1px solid #fff;border-bottom:1px solid #d9e4ea;border-top-left-radius:5px;border-top-right-radius:5px;}
+.emo_menu_item.bselected::after,.emo_menu_item_priv.bselected::after{height:100%;background:#eaeff3;border-bottom:1px solid #eaeff3;}
+
+/* user list padding */
+#container_user{padding:0!important;}
+
+/* online user item */
+.user_item{border-radius:0;}
+.user_item:hover{background:unset;}
+.user_item:not(.offline):nth-child(even){background:#eaeff3;}
+
+/* user card menu */
+.avbackground{background:#8196ae;color:#fff;}
+
+/* login page */
+#intro_top{background:#ededed url('images/background_login.svg');background-repeat:no-repeat;background-position:center;background-size:cover;}
+#login_all{background:#fff;color:#333;border-radius:2px;border:1px solid #c7c8c9;}
+
+/* Element radius */
+.user_item_avatar .acav,.cavatar,.room_cicon,.room_icon,.ucount,.selectboxit-container .selectboxit,button,input,textarea,.post_input_container,.back_menu,.back_box,.back_modal,.page_element,.sp_box,.cquote,.back_quote,.my_notice,.hunter_private,.target_private,.hunt_quote,.targ_quote,.plike_item,.ulist_item,.reply_item,.fmenu_item,.reg_menu_item,.tab_menu_item,.action_item,.modal_menu_item{border-radius:2px!important;}

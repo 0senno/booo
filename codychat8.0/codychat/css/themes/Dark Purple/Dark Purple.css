@@ -1,0 +1,493 @@
+a {
+    color: orange
+}
+
+body {
+    background: #45114b;
+    color: #d7ced8
+}
+button {
+    background: 0 0;
+    color: #fff
+}
+
+input,textarea,.post_input_container {
+    background: #330738;
+    border: 1px solid #4f0757;
+    color: #fff
+}
+
+.setdef {
+    color: #fff
+}
+
+.tpad15 {
+    padding-top: 15px;
+    background: #26303b00
+}
+
+.pad25 {
+    padding: 25px;
+    background-color: #330738
+}
+
+.cookie_wrap {
+    background: #333;
+    color: #fff
+}
+
+.bback {
+    background: rgb(255,255,255,.05)
+}
+
+.bbackb {
+    background: rgb(255,255,255,.05);
+    border: 1px solid rgb(255,255,255,.08)
+}
+
+.bhover:hover {
+    background: rgb(255,255,255,.05)
+}
+
+.bbackhover {
+    background: rgb(255,255,255,.05)
+}
+
+.bbackhover:hover {
+    background: rgb(255,255,255,.03)
+}
+
+.bbackhoverb {
+    background: rgb(255,255,255,.05)
+}
+
+.bbackhoverb:hover {
+    background: rgb(255,255,255,.3);
+    border: 1px solid rgb(255,255,255,.05)
+}
+
+.blisting {
+    border-bottom: 1px solid rgb(255,255,255,.03)
+}
+
+.blisting:hover {
+    background: rgb(255,255,255,.04)
+}
+
+.blist {
+    border-bottom: 1px solid rgb(255,255,255,.03)
+}
+
+.back_ptop {
+    background: #330738;
+    color: #fff
+}
+
+.bpmenu:hover {
+    background: rgb(255,255,255,.05)
+}
+
+.bsub {
+    background: rgb(0,0,0,.1)
+}
+
+.bsub:hover {
+    background: rgb(255,255,255,.03)
+}
+
+.bmenu,.submenu {
+    border-bottom: 1px solid rgb(255,255,255,.03)
+}
+
+.bmenu:hover,.submenu:hover {
+    background: rgb(255,255,255,.03)
+}
+
+.bshadow,.page_element,.float_menu,.btnshadow,.pboxed {
+    box-shadow: 0 1px 3px rgb(0,0,0,.4)
+}
+
+.bselected {
+    background: #45084c
+}
+
+.rselected {
+    background: rgb(255,255,255,.08)
+}
+
+.pselected {
+    color: #dcdfe2
+}
+
+.cselected,.liked {
+    background: rgb(255,255,255,.05)
+}
+
+.pag_btn {
+    background: rgb(255,255,255,.05)
+}
+
+.pagselected,.pag_btn:hover {
+    background: rgb(255,255,255,.1)
+}
+
+.gtag {
+    background: #7a0687;
+    border: #680773 1px solid;
+}
+
+.bborder {
+    border-bottom: 1px solid rgb(255,255,255,.05)
+}
+
+.tborder {
+    border-top: 1px solid rgb(255,255,255,.05)
+}
+
+.lborder,.ppanel {
+    border-left: 1px solid rgb(255,255,255,.05)
+}
+
+.rborder {
+    border-right: 1px solid rgb(255,255,255,.05)
+}
+
+.fborder {
+    border: 1px solid rgb(255,255,255,.05)
+}
+
+.float_top {
+    border-bottom: 1px solid rgb(255,255,255,.05)
+}
+
+.float_ctop {
+    border-bottom: 1px solid rgb(255,255,255,.05)
+}
+
+.bhead {
+    background: #330738;
+    color: #d7ced8
+}
+
+.modal_top {
+    background: #330738;
+    color: #fff
+}
+
+.pro_top {
+    background: #29072d;
+    color: #fff
+}
+
+.bfoot {
+    background: #330738;
+    color: #d7ced8
+}
+
+.foot {
+    background: #330738;
+    color: #fff
+}
+
+.backglob {
+    background: #151515
+}
+
+#chat_center {
+    background: #222b37ab
+}
+
+.back_chat {
+    background: #420a47;
+}
+
+.back_priv {
+    background: #3d0943;
+}
+
+.back_panel {
+    background: #3b0741
+}
+
+.back_menu {
+    background: #3b0741
+}
+
+.back_pmenu {
+    background: #410848
+}
+
+.back_box {
+    background: #3b0741
+}
+
+.back_input {
+    background: #410848;
+    border-top: 1px solid rgb(255 255 255/12%);
+    border-top: 1px solid rgb(255 255 255/7%)
+}
+
+.back_modal {
+    background: #3b0741;
+}
+
+.page_element {
+    background: #3b0741
+}
+
+.back_quote {
+    background: #3b0741
+}
+
+.theme_color {
+    color: #d7ced8
+}
+
+.default_color {
+    color: #fff
+}
+
+.error {
+    color: red
+}
+
+.success {
+    color: #74b20e
+}
+
+.warn {
+    color: orange
+}
+
+.theme_btn,.back_theme {
+    background: #5f0f68;
+    color: #fff
+}
+
+.default_btn,.back_default {
+    background: #581161;
+    color: #fff
+}
+
+.defaultd_btn {
+    background: #444;
+    color: #fff
+}
+
+.ok_btn {
+    background: #74b20e;
+    color: #fff
+}
+
+.warn_btn {
+    background: orange;
+    color: #fff
+}
+
+.delete_btn {
+    background: #c00;
+    color: #fff
+}
+
+.send_btn {
+    color: #f6f6f6
+}
+
+.user {
+    color: #d7ced8;
+}
+
+.chat_system {
+    color: #d7ced8;
+}
+
+.offline {
+    opacity: .5
+}
+
+.menui {
+    color: #7a0687
+}
+
+.subi {
+    color: #d7ced8;
+}
+
+.reply_item {
+    background: #4b1152;
+}
+
+.main_post_item {
+    color: rgb(255,255,255,.5)
+}
+
+.input_item {
+    color: #fff
+}
+
+.target_private,.hunt_quote {
+    color: #fff;
+    background: #5e0967
+}
+
+.hunter_private,.targ_quote {
+    color: #fff;
+    background: #510c58
+}
+
+.cquote {
+    background: rgb(255,255,255,.05)!important
+}
+
+.cqname {
+    color: #fff
+}
+
+.cqmess {
+    color: #fff
+}
+
+.tab_menu {
+    box-shadow: 0 1px 3px rgb(0,0,0,.4)
+}
+
+.tab_selected {
+    background: #530e5b;
+}
+
+.modal_mback {
+    background: #330738;
+    border-bottom: #630a6d dotted 1px
+}
+
+.modal_menu.modal_mback.hpad15 {
+    border-top: #630a6d dotted 1px
+}
+
+.modal_mborder {
+    border-bottom: 1px solid rgb(81 50 50)
+}
+
+.modal_selected {
+    background: #460f4c;
+}
+
+.modal_back {
+    background-color: rgba(0,0,0,.6)
+}
+
+.log2 {
+    background: #4e1254
+}
+
+.topic_log {
+    background: #0d261a;
+    color: #d9f2e6
+}
+
+.sys_log {
+}
+
+.bprogress {
+    background: #74b20e;
+    color: #fff
+}
+
+.bnotify {
+    background: red;
+    color: #fff
+}
+
+.foot_notify,.head_notify {
+    border: 1px solid #fff
+}
+
+.sub_date {
+    color: #fff
+}
+
+.sub_chat,.sub_priv {
+    color: #d7ced8
+}
+
+.sub_text,.list_mood {
+    color: #d7ced8
+}
+
+.plikes {
+    background-color: rgba(100,100,100,.2);
+    color: #fff
+}
+
+.bspin {
+    color: rgb(255,255,255,.3)
+}
+
+.my_notice {
+    color: #fff;
+    background: #731c7d
+}
+
+.system_text {
+    background: rgb(255,255,255,.05);
+    color: #888
+}
+
+.back_page {
+    background: #111;
+    color: #fff
+}
+
+.post_video {
+    background: rgb(0,0,0,1)
+}
+
+.boom_slider .ui-widget-content {
+    background: #333
+}
+
+.boom_slider .ui-state-default {
+    background: #ccc!important
+}
+
+.boom_slider .ui-state-active {
+    background: #ccc!important
+}
+
+.boom_slider .ui-slider-range {
+    background: #666
+}
+
+.selectboxit-list,.selectboxit-btn {
+    background-color: #410d47;
+    border: 1px solid #5c1764;
+    color: #fff
+}
+
+.selectboxit-list .selectboxit-focus .selectboxit-option-anchor {
+    background-color: #490f4f;
+    color: #fff
+}
+
+.selectboxit-default-arrow {
+    border-top: 4px solid #fff;
+}
+
+.selectboxit-btn.selectboxit-enabled:hover,.selectboxit-btn.selectboxit-enabled:focus,.selectboxit-btn.selectboxit-enabled:active {
+    background: #3b0741;
+    color: #fff
+}
+
+.selectboxit-options {
+    background: #330738;
+    color: #fff
+}
+
+.selectboxit-list .selectboxit-option-anchor {
+    color: #fff
+}
+
+.modal_in {
+    border: 1px solid rgb(255,255,255,.01)
+}
+}

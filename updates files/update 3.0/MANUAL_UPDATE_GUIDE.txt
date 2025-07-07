@@ -1,0 +1,119 @@
+*****************************************************
+Codychat manual update 3.0 instruction
+****************************************************
+
+if you do not have tryed the automatic update process please
+refer to the other file UPDATE_GUIDE.txt instruction. The
+current file is only for manual update process.
+
+step 1
+------
+
+prior to installation make sure you backup everything.
+
+step 2
+------
+
+remove the files.zip from the 3.0 folder
+
+step 3
+------
+
+upload the 3.0 folder to your chat "updates" folder
+
+step 4
+------
+go into your admin panel in update section and run the update 3.0
+from you. If you do not see anymore the update 3.0 it mean that
+the update applyed correctly. if you receive a error please
+contact our support.
+
+step 5
+------
+
+unzip file.zip that you removed from the 3.0 folder and replace 
+all files in your chat directory.
+
+step 6
+------
+
+replace all addons that you have purchase with the 3.0 version
+of them that you have downloaded from the store. There is no need
+to uninstall addons simply replace files of addons.
+
+step 7
+------
+
+refresh the chat and admin panel and you should see a box apearing
+follow the box instructions. You can find the unlock key in your
+store account in the right side bar.
+
+step 8
+------
+
+refresh all pages to load 3.0 new core files.
+
+step 9
+------
+
+*************************************
+DELETE FILES !IMPORTANT
+************************************
+
+after having replaced all files you now
+need to remove those files that are not used anymore
+by codychat from your system to keep files clean
+
+
+system/action_chat.php
+system/action_files.php
+system/action_news.php
+system/action_staff.php
+system/action_verify.php
+system/action_wall.php
+system/action_user.php
+system/admin_save.php
+system/avatar.php
+system/avatar_admin.php
+system/data_template.php
+system/info.php
+system/system_action.php
+system/system_addons.php
+system/system_clean.php
+system/system_console.php
+system/system_geo.php
+system/system_status.php
+system/system_update.php
+system/box/registration_mute.php
+system/box/user_action.php
+system/element/kick_options.php
+system/element/news_input.php
+system/element/wall_input.php
+control/login.php
+control/login_embed.php
+login/guest_name_login.php
+login/guest_registration.php
+login/login.php
+login/registration.php
+login/account_security.php
+login/recovery_process.php
+js/function.js
+js/admin.js
+js/split.js
+js/split_logged.js
+js/login.js
+js/documentation.js
+js/lobby.js
+js/login.js
+js/player.js
+
+
+
+step 10
+-------
+
+enjoy 3.0
+
+
+
+

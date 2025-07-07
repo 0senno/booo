@@ -1,0 +1,51 @@
+*****************************************************
+Codychat manual update 4.2 instruction
+****************************************************
+
+if you do not have tryed the automatic update process please
+refer to the other file UPDATE_GUIDE.txt instruction. The
+current file is only for manual update process.
+
+step 1
+------
+
+before attempting any update backup everything.
+
+step 2
+------
+
+remove the files.zip from the 4.2 folder
+
+step 3
+------
+
+upload the 4.2 folder to your chat "updates" folder
+
+step 4
+------
+go into your admin panel in update section and run the update 4.2
+from you. If you do not see anymore the update 4.2 it mean that
+the update applyed correctly. if you receive a error please
+contact our support.
+
+step 5
+------
+
+unzip file.zip that you removed from the 4.2 folder and replace 
+all files in your chat directory.
+
+
+step 6
+------
+
+refresh all pages to load 4.2 new core files.
+
+
+step 7
+-------
+
+enjoy 4.2
+
+
+
+

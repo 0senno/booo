@@ -1,0 +1,36 @@
+<?php
+$nlang['like'] = 'A réagit à une de vos publications';
+$nlang['reply'] = 'A commenté sur une de vos publications';
+$nlang['add_post'] = 'A publié quelque chose sur le mur';
+$nlang['accept_friend'] = 'A acceptée votre demande amis';
+$nlang['word_mute'] = 'Vous avez été mis en silence %delay% pour language abusif';
+$nlang['flood_mute'] = 'Votre compte a été mis en silence %delay% pour flood';
+$nlang['spam_mute'] = 'Vous avez été mis en silence %delay% pour spam';
+$nlang['rank_change'] = 'Votre rank a changé vous êtes maintenant %rank%';
+$nlang['mute'] = 'Vous avez été mis en silence pour %delay%';
+$nlang['unmute'] = 'Votre silence a été enlever';
+$nlang['name_change'] = 'A changer votre pseudo par %data%';
+$nlang['prolike'] = 'Has liked your profile';
+$nlang['main_mute'] = 'Vous avez été mis en silence du chat principal pour %delay%';
+$nlang['private_mute'] = 'Votre chat privé mis en silence %delay%';
+$nlang['main_unmute'] = 'Votre silence a été enlever sur le chat principal';
+$nlang['private_unmute'] = 'Your private has been unmuted';
+$nlang['gold_share'] = 'a partagé %data% gold avec vous';
+$nlang['gift'] = 'Vous a envoyé un cadeau';
+$nlang['vipgift'] = 'Vous a envoyé un abonnement vip';
+$nlang['vipsys'] = 'Votre abonnement vip a été ajouter a votre compte';
+$nlang['custom'] = '%custom%';
+$nlang['mcall'] = 'Appel manqué';
+$nlang['ruby_share'] = 'a partagé %data% rubis avec vous';
+$nlang['level'] = 'Super ! Vous avez atteint le niveau XP %data%';
+$nlang['badge_ruby'] = 'Vous avez gagné le badge Commerçant Rubis niveau %data%';
+$nlang['badge_member'] = 'Vous avez gagné le badge Membre de la communauté';
+$nlang['badge_chat'] = 'Vous avez gagné le badge Membre actif niveau %data%';
+$nlang['badge_auth'] = 'Vous avez gagné le badge Membre authentifié';
+$nlang['badge_gift'] = 'Vous avez gagné le badge Gardien des cadeaux niveau %data%';
+$nlang['badge_like'] = 'Vous avez gagné le badge Membre aimé niveau %data%';
+$nlang['badge_friend'] = 'Vous avez gagné le badge Membre amical niveau %data%';
+$nlang['badge_gold'] = 'Vous avez gagné le badge Marchand d\'or niveau %data%';
+$nlang['badge_beat'] = 'Vous avez gagné le badge Membre dévoué niveau %data%';
+$nlang['badge_top'] = 'Vous avez gagné le badge Top gagnant niveau %data%';
+?>

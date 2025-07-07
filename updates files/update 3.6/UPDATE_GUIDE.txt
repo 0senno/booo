@@ -1,0 +1,79 @@
+*****************************************************
+Codychat update 3.6 instruction
+****************************************************
+
+#### IMPORTANT ############################
+
+each update must be done in the right order please make
+sure that you have done all previous update before aplying this
+one or the system may break. example if your chat is 1.0 you 
+need to update 2.0 , 3.0, 3.1, 3.5, 3.6 in order
+not doing update in order will cause damage that may 
+not be reversible.
+
+###########################################
+
+prior to updating your chat if you have many users online
+it is strongly suggested to set the chat in maintenance mode
+
+you can find maintenance mode in your admin panel at
+
+system settings -> main options -> maintenance put your chat in maintenance mode
+
+step 1
+------
+
+before attempting any update backup everything.
+
+step 2
+------
+
+#### IMPORTANT ############################
+do not open 3.6 folder just put 3.6 folder
+inside the " update " folder of your chat
+so it should do  /updates / 3.6 /
+###########################################
+
+upload the 3.6 folder to the updates folder of your chat.
+
+
+
+step 3
+------
+
+go into your admin panel in update section and run the update 3.6
+from you. If you do not see anymore the update 3.6 it mean that
+the update applyed correctly. if you receive a error message saying that
+you need to update manually please use the ** MANUAL_UPDATE_GUIDE.txt ** folder to
+update your chat.
+
+
+step 4
+------
+
+remove chat maintenance mode
+
+step 5
+------
+
+refresh all pages to load 3.6 new core files.
+
+
+step 6
+-------
+
+enjoy 3.6
+
+#### IMPORTANT ############################
+
+after update is completed please open the chat option from your admin panel if you see the " show flag in userlist " option that this mean
+the updater have replaced files if you do not see that option please replace files manually from files.zip folder included in 3.6 update folder.
+you can refer to manual update procedure for manual files replacement.
+
+###########################################
+
+
+
+
+
+

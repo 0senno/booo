@@ -1,0 +1,51 @@
+*****************************************************
+Codychat manual update 3.1 instruction
+****************************************************
+
+if you do not have tryed the automatic update process please
+refer to the other file UPDATE_GUIDE.txt instruction. The
+current file is only for manual update process.
+
+step 1
+------
+
+prior to installation make sure you backup everything.
+
+step 2
+------
+
+remove the files.zip from the 3.1 folder
+
+step 3
+------
+
+upload the 3.1 folder to your chat "updates" folder
+
+step 4
+------
+go into your admin panel in update section and run the update 3.1
+from you. If you do not see anymore the update 3.1 it mean that
+the update applyed correctly. if you receive a error please
+contact our support.
+
+step 5
+------
+
+unzip file.zip that you removed from the 3.1 folder and replace 
+all files in your chat directory.
+
+
+step 6
+------
+
+refresh all pages to load 3.1 new core files.
+
+
+step 7
+-------
+
+enjoy 3.0
+
+
+
+

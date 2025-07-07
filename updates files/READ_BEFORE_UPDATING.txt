@@ -1,0 +1,18 @@
+
+#### IMPORTANT ############################
+
+If  you are doing a new installation you do not need to use those updates.
+
+each update must be done in the right order 
+example if your chat is 1.0 you 
+need to update 2.0 , 3.0, 3.1, 3.5, 3.6, 3.7, 4.1, 4.2, 4.5, 5.0, 6.0, 7.0 in order.
+not doing update in order will cause damage that may 
+not be reversible.
+
+Please read carefully all included UPDATE_GUIDE.txt before
+attempting an update.
+
+###########################################
+
+
+

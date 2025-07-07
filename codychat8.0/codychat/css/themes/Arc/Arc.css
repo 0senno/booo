@@ -1,0 +1,217 @@
+/**========================================================================
+* ?                                ABOUT
+* @author         :  8lackMask
+* @email          :  blackcodymask@gmail.com
+* @store          :  https://blackmask.codychat.store/
+* @product        :  Arc (theme)
+* @version        :  1.0
+*========================================================================**/
+
+/* custom font */
+@import url('./font/Roboto.css');
+
+/* general colors */
+a {color:#e39e20;}
+body{font-family:'Roboto',sans-serif;background:#181a21;color:#fff}
+button { background:transparent; color:#fff; }
+input,textarea,.post_input_container{font-family:'Roboto',sans-serif,'FontAwesome';background:#252832;color:#fff;border:1px solid rgb(68,79,104,.639)!important}
+.setdef { color:#fff; }
+
+/* item with background no effect */
+.bback { background:rgb(0,0,0,0.12); }
+
+/* item with background no effect with border */
+.bbackb { background:rgb(0,0,0,0.10); border:1px solid rgb(0,0,0,0.08); }
+
+/* item with no background and hover effect */
+.bhover:hover, .bhoverr:hover { background:rgb(0,0,0,0.10); }
+
+/* item with background and hover effect */
+.bbackhover { background:rgb(0,0,0,0.10); }
+.bbackhover:hover { background:rgb(0,0,0,0.14); }
+
+/* item width background and hover effect with a border */
+.bbackhoverb { background:rgb(0,0,0,0.05); }
+.bbackhoverb:hover { background:rgb(0,0,0,0.025); border:1px solid rgb(0,0,0,0.08); }
+
+/* item with no background with line separator and hover effect */
+.blisting { border-bottom: 1px solid rgb(68,79,104,0.639); }
+.blisting:hover { background: rgb(0,0,0,0.10); }
+
+/* item with no background with line separator */
+.blist { border-bottom: 1px solid rgb(68,79,104,0.639); }
+
+/* private panel top */
+.back_ptop { background:#252832; color:#fff; }
+
+/* page menu & page sub menu */
+.bpmenu:hover { background: rgb(255,255,255,0.09); }
+.bsub { background:rgb(0,0,0,0.1); }
+.bsub:hover { background:rgb(0,0,0,0.2); }
+
+/* sub menus for card, logs, wall, news */
+.bmenu, .submenu { border-bottom:1px solid rgb(68,79,104,0.639); }
+.bmenu:hover, .submenu:hover { background:rgb(0,0,0,0.08); }
+
+/* box shadow */
+.bshadow, .page_element, .float_menu, .btnshadow, .pboxed { box-shadow:0 1px 3px rgb(0,0,0,0.2); }
+
+/* main item selected for panel and box */
+.bselected { background:rgb(255,255,255,0.08); }
+
+/* reg menu selected item */
+.rselected { background:rgb(255,255,255,0.08); }
+
+/* page selected */
+.pselected { color:#6890ee; }
+
+/* current item selected */
+.cselected, .liked { background:rgb(255,255,255,0.05); }
+
+/* paginate item selected */
+.pag_btn{background:rgba(0,0,0,.15);color:#c1c1c1}
+.pagselected,.pag_btn:hover{background:rgb(0,0,0,.20)}
+
+/* count and gold tag */
+.gtag{background:#5774b7;border:1px solid rgb(255,255,255,.08)}
+
+/* border color for separator and items border */
+.bborder { border-bottom:1px solid rgb(68,79,104,0.639); }
+.tborder { border-top:1px solid rgb(68,79,104,0.639); }
+.lborder, .ppanel { border-left:1px solid rgb(68,79,104,0.639); }
+.rborder { border-right:1px solid rgb(68,79,104,0.639); }
+.fborder { border:1px solid rgb(68,79,104,0.639); }
+
+/* float top color */
+.float_top,.float_ctop { border-bottom:1px solid rgb(68,79,104,0.639); }
+
+/* headers colors and top box colors */
+.bhead{background:linear-gradient(to top,#21252f,#2b3140);color:#fff}
+.modal_top,.pro_top{background:#181a21;color:#fff}
+.bfoot{background:linear-gradient(to bottom,#21252f,#2b3140);color:#fff}
+.foot{background:#31384a;border-top:1px solid rgb(68,79,104,.639);color:#fff}
+
+/* background major element panel, page menu, float menu, modal, chat boxes */
+.backglob{background:#181a21}
+#intro_top,.back_chat{background:#181a21 url('./images/background.png');background-repeat:no-repeat;background-position:center;background-size:cover}
+.back_priv,.back_panel,.back_modal,.page_element{background:#2b2f3c}
+.back_menu{background:#31384a}
+.back_pmenu{background:#2b2f3c;color:#fff}
+.back_box{background:#31384a}
+.back_input{background:#2b2f3c;border-top:1px solid rgb(68,79,104,.639)}
+.back_quote{background:#181a21;border:1px solid rgb(68,79,104,.639)}
+
+/* main theme color */
+.theme_color{color:#5774b7}
+.default_color { color:#546079; }
+.error  { color:#c83d3d; }
+.success { color:#328426; }
+.warn { color:#e39e20; }
+
+/* button colors */
+.theme_btn,.back_theme{background:#5774b7;color:#fff}
+.default_btn,.defaultd_btn,.back_default { background:#546079; color:#fff; }
+.ok_btn { background:#328426; color:#fff; }
+.warn_btn { background:#e39e20; color:#fff; }
+.delete_btn { background:#c83d3d; color:#fff; }
+.send_btn { color:#fff; }
+
+/* default username color */
+.user { color:#fff; }
+
+/* chat system messsage text color */
+.chat_system { color:#c1c1c1; }
+
+/* opacity for offline users in list */
+.offline { opacity:0.5; }
+
+/* menu icon */
+.menui,.subi { color:#6890ee; }
+
+/* wall reply background */
+.reply_item { background:#252832; }
+
+/* main post item option wall and news */
+.main_post_item { color:#999; }
+
+/* input option background colors */
+.input_item { color:#999; }
+
+/* private log bubble colors */
+.target_private, .hunt_quote {color:#fff; background:#546079;}
+.hunter_private, .targ_quote {color:#fff; background:#5774b7;}
+
+/* quote in chat background */
+.cquote {  background:rgb(255,255,255,0.05) !important; }
+.cqname { color:#fff; }
+.cqmess { color:#c1c1c1; }
+
+/* tab menu */
+.tab_menu { background:#252832; box-shadow:0 1px 3px rgb(0,0,0,0.2); }
+.tab_menu_item { }
+.tab_selected { background:rgb(255,255,255,0.08); }
+
+/* modal menu */
+.modal_mback { background:rgb(0,0,0,0.12); }
+.modal_mborder { border-bottom: 1px solid rgb(68,79,104,0.639); }
+.modal_selected { background:rgb(255,255,255,0.08); }
+
+/* back transparency background for modal box */
+.modal_back { background-color:rgba(0,0,0,0.4); }
+
+/* chat logs */
+.ch_logs{background:rgb(0,0,0,.020)}
+.ch_logs:not(:last-child){border-bottom:1px solid rgb(255,255,255,0.04)}
+.log2 { background: rgb(255,255,255,0.020); }
+.sys_log { }
+.topic_log{background:transparent;color:#fff;margin: 5px auto;width: 98%;max-width: 600px;}
+.tptitle{font-weight:700}
+.tptext{font-weight:300}
+.topic_log>.my_text{background:#4f5466;border-radius:5px;padding:10px 12px}
+.topic_log>.my_text::after{content:'';position:absolute;right:100%;top:20px;border-right:16px solid #414453;border-bottom:16px solid transparent}
+.topic_log>.topic_icon{width:65px}
+
+/* upload progress */
+.bprogress { background:#74b20e; color:#fff; }
+
+/* notification colors */
+.bnotify { background:#c83d3d; color:#fff; }
+.foot_notify, .head_notify { border:1px solid #fff; }
+
+/* date colors */
+.sub_date { color:#bbb; }
+.sub_chat, .sub_priv { color:#ccc; }
+
+/* secondary text color */
+.sub_text,.list_mood{color:#c1c1c1}
+.list_mood{font-weight:300}
+
+/* profile likes */
+.plikes { background-color:rgba(100,100,100,0.3); color:#fff; }
+
+/* spinner color */
+.bspin { color:rgb(255,255,255,0.3); }
+
+/* special chat item */
+.my_notice { color:#fff; background:#6890ee; }
+.system_text { background:#ededed; color:#666; }
+
+/* outside pages background */
+.back_page { background:#222; color:#fff; }
+
+/* video background color */
+.post_video { background:rgb(0,0,0,1); }
+
+/* slider */
+.boom_slider .ui-widget-content { background: #ededed; }
+.boom_slider .ui-state-default { background: #5774b7 !important; }
+.boom_slider .ui-state-active { background: #6890ee !important; }
+.boom_slider .ui-slider-range { background:#5774b7; }
+
+/* select input color */
+.selectboxit-list, .selectboxit-btn { background-color: #252832; color:#c1c1c1;  border:1px solid rgb(68,79,104,0.639) !important; }
+.selectboxit-list .selectboxit-focus .selectboxit-option-anchor { background-color: #2b2f3c; color:#fff; }
+.selectboxit-default-arrow { border-top: 4px solid #5774b7; }
+.selectboxit-btn.selectboxit-enabled:hover, .selectboxit-btn.selectboxit-enabled:focus, .selectboxit-btn.selectboxit-enabled:active { background:#2b2f3c; color:#fff; }
+.selectboxit-options { background:#252832; }
+.selectboxit-list .selectboxit-option-anchor { color:#c1c1c1; }

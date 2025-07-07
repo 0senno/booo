@@ -1,0 +1,43 @@
+
+Codychat installation guide
+###########################
+
+online installation guide
+---------------------------
+
+you can view our online and updated installation guide at the following url
+
+https://boomcoding.com/doc/codychat8.php
+
+---------------------------
+
+or 
+
+
+Installation of codychat
+---------------------------
+
+step 1 - Make sure your server meet requirements before attempting to install.
+
+step 2 - Create a empty database on your server.
+
+step 3 - Upload content of " Codychat " folder to your desired location on your server
+
+step 4 - In your desired browser reach the root url where you have uploaded files.
+
+step 5 - follow installer and provide license key.
+
+step 6 - Installation complete.
+
+----------------------------
+
+If you have any question or any problem installing this chat do not 
+hesisate to contact us we will gladly assist you with that.
+
+
+Thanks for purchasing our product.
+hope you will enjoy your chat.
+
+Boomcoding team
+
+

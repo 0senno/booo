@@ -1,0 +1,492 @@
+a {
+    color: orange
+}
+body {
+    background: #1d232b;
+    color: #fff
+}
+
+button {
+    background: 0 0;
+    color: #fff
+}
+
+input,textarea,.post_input_container {
+    background: #2d3847;
+    border: 1px solid #3b4a5e;
+    color: #fff
+}
+
+.setdef {
+    color: #fff
+}
+
+.tpad15 {
+    padding-top: 15px;
+    background: #26303b00;
+}
+
+.pad25 {
+    padding: 25px;
+    background-color: #232c3c
+}
+
+.cookie_wrap {
+    background: #333;
+    color: #fff
+}
+
+.bback {
+    background: rgb(255,255,255,.05)
+}
+
+.bbackb {
+    background: rgb(255,255,255,.05);
+    border: 1px solid rgb(255,255,255,.08)
+}
+
+.bhover:hover {
+    background: rgb(255,255,255,.05)
+}
+
+.bbackhover {
+    background: rgb(255,255,255,.05)
+}
+
+.bbackhover:hover {
+    background: rgb(255,255,255,.03)
+}
+
+.bbackhoverb {
+    background: rgb(255,255,255,.05)
+}
+
+.bbackhoverb:hover {
+    background: rgb(255,255,255,.3);
+    border: 1px solid rgb(255,255,255,.05)
+}
+
+.blisting {
+    border-bottom: 1px solid rgb(255,255,255,.03)
+}
+
+.blisting:hover {
+    background: rgb(255,255,255,.04)
+}
+
+.blist {
+    border-bottom: 1px solid rgb(255,255,255,.03)
+}
+
+.back_ptop {
+    background: #1f2836;
+    color: #fff
+}
+
+.bpmenu:hover {
+    background: rgb(255,255,255,.05)
+}
+
+.bsub {
+    background: rgb(0,0,0,.1)
+}
+
+.bsub:hover {
+    background: rgb(255,255,255,.03)
+}
+
+.bmenu,.submenu {
+    border-bottom: 1px solid rgb(255,255,255,.03)
+}
+
+.bmenu:hover,.submenu:hover {
+    background: rgb(255,255,255,.03)
+}
+
+.bshadow,.page_element,.float_menu,.btnshadow,.pboxed {
+    box-shadow: 0 1px 3px rgb(0,0,0,.4)
+}
+
+.bselected {
+    background: #2a3a4c
+}
+
+.rselected {
+    background: rgb(255,255,255,.08)
+}
+
+.pselected {
+    color: #6c88a5
+}
+
+.cselected,.liked {
+    background: rgb(255,255,255,.05)
+}
+
+.pag_btn {
+    background: rgb(255,255,255,.05)
+}
+
+.pagselected,.pag_btn:hover {
+    background: rgb(255,255,255,.1)
+}
+
+.gtag {
+    background: #111;
+    border: 1px solid rgb(255,255,255,.05)
+}
+
+.bborder {
+    border-bottom: 1px solid rgb(255,255,255,.05)
+}
+
+.tborder {
+    border-top: 1px solid rgb(255,255,255,.05)
+}
+
+.lborder,.ppanel {
+    border-left: 1px solid rgb(255,255,255,.05)
+}
+
+.rborder {
+    border-right: 1px solid rgb(255,255,255,.05)
+}
+
+.fborder {
+    border: 1px solid rgb(255,255,255,.05)
+}
+
+.float_top {
+    border-bottom: 1px solid rgb(255,255,255,.05)
+}
+
+.float_ctop {
+    border-bottom: 1px solid rgb(255,255,255,.05)
+}
+
+.bhead {
+    background: #27323f;
+    color: #fff
+}
+
+.modal_top {
+    background: #293644;
+    color: #fff
+}
+
+.pro_top {
+    background: #222B3B;
+    color: #fff
+}
+
+.bfoot {
+    background: #27323f;
+    color: #fff
+}
+
+.foot {
+    background: #293644;
+    color: #fff
+}
+
+.backglob {
+    background: #151515
+}
+
+#chat_center {
+    background: #222b37ab
+}
+
+.back_chat {
+background-image: linear-gradient(#293644), rgba(#222b37ab)),                  url("images/Dark-Blue-Gray-Background.jpg"); 
+} 
+
+.back_priv {
+    background: #232d39;
+}
+
+.back_panel {
+    background: #222b37
+}
+
+.back_menu {
+    background: #222b37
+}
+
+.back_pmenu {
+    background: #1f2731
+}
+
+.back_box {
+    background: #283342
+}
+
+.back_input {
+    background: #222b37;
+    border-top: 1px solid rgb(255 255 255/12%);
+    border-top: 1px solid rgb(255 255 255/7%)
+}
+
+.back_modal {
+    background: #222b37;
+}
+
+.page_element {
+    background: #1f2731
+}
+
+.back_quote {
+    background: #232d39
+}
+
+.theme_color {
+    color: #526b91
+}
+
+.default_color {
+    color: #666
+}
+
+.error {
+    color: red
+}
+
+.success {
+    color: #74b20e
+}
+
+.warn {
+    color: orange
+}
+
+.theme_btn,.back_theme {
+    background: #334961;
+    color: #fff
+}
+
+.default_btn,.back_default {
+    background: #334257;
+    color: #fff
+}
+
+.defaultd_btn {
+    background: #444;
+    color: #fff
+}
+
+.ok_btn {
+    background: #74b20e;
+    color: #fff
+}
+
+.warn_btn {
+    background: orange;
+    color: #fff
+}
+
+.delete_btn {
+    background: #c00;
+    color: #fff
+}
+
+.send_btn {
+    color: #f6f6f6
+}
+
+.user {
+    color: #fff
+}
+
+.chat_system {
+    color: #fff
+}
+
+.offline {
+    opacity: .5
+}
+
+.menui {
+    color: #466d97
+}
+
+.subi {
+    color: #466d97;
+}
+
+.reply_item {
+    background: #2d3b4a
+}
+
+.main_post_item {
+    color: rgb(255,255,255,.5)
+}
+
+.input_item {
+    color: #fff
+}
+
+.target_private,.hunt_quote {
+    color: #fff;
+    background: #303e50
+}
+
+.hunter_private,.targ_quote {
+    color: #fff;
+    background: #596e86
+}
+
+.cquote {
+    background: rgb(255,255,255,.05)!important
+}
+
+.cqname {
+    color: #fff
+}
+
+.cqmess {
+    color: #fff
+}
+
+.tab_menu {
+    box-shadow: 0 1px 3px rgb(0,0,0,.4)
+}
+
+.tab_selected {
+    background: #32435d;
+}
+
+.modal_mback {
+    background: rgb(36 48 64);
+    border-bottom: #475d77 dotted 1px;
+}
+
+.modal_menu.modal_mback.hpad15 {
+    border-top: #475d77 dotted 1px;
+}
+
+.modal_mborder {
+    border-bottom: 1px solid rgb(255,255,255,.08)
+}
+
+.modal_selected {
+    background: #32445ba6
+}
+
+.modal_back {
+    background-color: rgba(0,0,0,.6)
+}
+
+.log2 {
+    background:#252d36
+}
+
+.topic_log {
+    background: #0d261a;
+    color: #d9f2e6
+}
+
+.sys_log {
+}
+
+.bprogress {
+    background: #74b20e;
+    color: #fff
+}
+
+.bnotify {
+    background: red;
+    color: #fff
+}
+
+.foot_notify,.head_notify {
+    border: 1px solid #fff
+}
+
+.sub_date {
+    color: #fff
+}
+
+.sub_chat,.sub_priv {
+    color: #fbfafa
+}
+
+.sub_text,.list_mood {
+    color: #888
+}
+
+.plikes {
+    background-color: rgba(100,100,100,.2);
+    color: #fff
+}
+
+.bspin {
+    color: rgb(255,255,255,.3)
+}
+
+.my_notice {
+    color: #fff;
+    background: #48576b
+}
+
+.system_text {
+    background: rgb(255,255,255,.05);
+    color: #888
+}
+
+.back_page {
+    background: #111;
+    color: #fff
+}
+
+.post_video {
+    background: rgb(0,0,0,1)
+}
+
+.boom_slider .ui-widget-content {
+    background: #333
+}
+
+.boom_slider .ui-state-default {
+    background: #ccc!important
+}
+
+.boom_slider .ui-state-active {
+    background: #ccc!important
+}
+
+.boom_slider .ui-slider-range {
+    background: #666
+}
+
+.selectboxit-list,.selectboxit-btn {
+    background-color: #33496194;
+    border: 1px solid #4c5c6e;
+    color: #fff
+}
+
+.selectboxit-list .selectboxit-focus .selectboxit-option-anchor {
+    background-color: #1f2a36;
+    color: #fff
+}
+
+.selectboxit-default-arrow {
+    border-top: 4px solid #fff;
+}
+
+.selectboxit-btn.selectboxit-enabled:hover,.selectboxit-btn.selectboxit-enabled:focus,.selectboxit-btn.selectboxit-enabled:active {
+    background: #334257;
+    color: #fff
+}
+
+.selectboxit-options {
+    background: #25313d;
+    color: #fff
+}
+
+.selectboxit-list .selectboxit-option-anchor {
+    color: #fff
+}
+
+.modal_in {
+    border: 1px solid rgb(255,255,255,.01)
+}

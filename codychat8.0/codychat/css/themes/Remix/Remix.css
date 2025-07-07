@@ -1,0 +1,220 @@
+/**========================================================================
+* ?                                ABOUT
+* @author         :  8lackMask
+* @email          :  blackcodymask@gmail.com
+* @store          :  https://blackmask.codychat.store/
+* @product        :  Remix (theme)
+* @version        :  1.0
+*========================================================================**/
+
+/* custom font */
+@import url('./font/Roboto.css');
+
+/* general colors */
+a {color:#f5a91e;}
+body{font-family:'Roboto',sans-serif;background:#010922;color:#fff}
+button { background:transparent; color:#fff; }
+input,textarea,.post_input_container{background:#030f31;font-family:'Roboto',sans-serif,'FontAwesome';border:1px solid rgb(123,134,171,.149)!important;color:#fff}
+.setdef { color:#fff; }
+
+/* cookie box */
+.cookie_wrap { background:#333; color:#fff; }
+
+/* item with background no effect */
+.bback { background:rgb(255,255,255,0.05); }
+
+/* item with background no effect with border */
+.bbackb { background:rgb(255,255,255,0.05); border:1px solid rgb(255,255,255,0.08); }
+
+/* item with no background and hover effect */
+.bhover:hover { background:rgb(255,255,255,0.05); }
+
+/* item with background and hover effect */
+.bbackhover { background:rgb(255,255,255,0.05); }
+.bbackhover:hover { background:rgb(255,255,255,0.03); }
+
+/* item width background and hover effect with a border */
+.bbackhoverb { background:rgb(255,255,255,0.05); }
+.bbackhoverb:hover { background:rgb(255,255,255,0.3); border:1px solid rgb(255,255,255,0.05); }
+
+/* item with no background with line separator and hover effect */
+.blisting { border-bottom: 1px solid rgb(255,255,255,0.03); }
+.blisting:hover { background: rgb(255,255,255,0.04); }
+
+/* item with no background with line separator */
+.blist { border-bottom: 1px solid rgb(255,255,255,0.03); }
+
+/* private panel top */
+.back_ptop{background:#030f31;color:#fff}
+
+/* page menu & page sub menu */
+.bpmenu:hover { background: rgb(255,255,255,0.05); }
+.bsub { background:rgb(255,255,255,0.04); }
+.bsub:hover { background:rgb(255,255,255,0.08); }
+
+/* sub menus for card, logs, wall, news */
+.bmenu, .submenu { border-bottom:1px solid rgb(255,255,255,0.03); }
+.bmenu:hover, .submenu:hover { background:rgb(255,255,255,0.03); }
+
+/* box shadow */
+.bshadow, .page_element, .float_menu, .btnshadow, .pboxed { box-shadow:0 1px 3px rgb(0,0,0,0.4); }
+
+/* main item selected for panel and box */
+.bselected { background:rgb(255,255,255,0.08); }
+
+/* reg menu selected item */
+.rselected { background:rgb(255,255,255,0.08); }
+
+/* page selected */
+.pselected { color:#3b6cff; }
+
+/* current item selected selected */
+.cselected, .liked { background:rgb(255,255,255,0.08); }
+
+/* paginate item selected */
+.pag_btn { background:rgb(255,255,255,0.05); }
+.pagselected, .pag_btn:hover { background:rgb(255,255,255,0.1); }
+
+/* count and gold tag */
+.gtag { background:#3b6cff; border:1px solid rgb(255,255,255,0.05); }
+
+/* border color for separator and items border */
+.bborder { border-bottom:1px solid rgb(123,134,171,0.149); }
+.tborder { border-top:1px solid rgb(123,134,171,0.149); }
+.lborder, .ppanel { border-left:1px solid rgb(123,134,171,0.149); }
+.rborder { border-right:1px solid rgb(123,134,171,0.149); }
+.fborder { border:1px solid rgb(123,134,171,0.149); }
+
+/* float top color */
+.float_top,.float_ctop { border-bottom:1px solid rgb(123,134,171,0.149); }
+
+/* headers, footer and top modal colors */
+.bhead,.bfoot{background:#011448;color:#fff}
+.modal_top,.pro_top { background:#030f31; color:#fff; }
+.foot{background:#010922;border-top:1px solid rgb(123,134,171,.149);color:#fff}
+
+/* background major element panel, page menu, float menu, modal, chat boxes */
+#intro_top,.backglob{background:#010922 url('./images/background.jpg');background-repeat:no-repeat;background-position:center;background-size:cover}
+.back_chat{background:rgb(0,8,30,.64);}
+.back_priv{background:#010922}
+.back_panel{background:rgb(0,8,30,.64)}
+.back_pmenu{background:rgb(0,8,30,.64);border-right:1px solid rgb(123,134,171,.149)}
+.back_input{background:rgb(0,8,30,.86);border-top:1px solid rgb(255,255,255,.05)}
+.back_modal{background:#06143c}
+.page_element,.back_quote,.back_menu,.back_box{background:#0a1b4d}
+
+/* main theme color */
+.theme_color { color:#3b6cff; }
+.default_color { color:#274293; }
+.error  { color:#d81818; }
+.success { color:#74b20e; }
+.warn { color:#f5a91e; }
+
+/* button colors */
+.theme_btn, .back_theme { background:#3b6cff; color:#fff; }
+.default_btn, .back_default { background:#274293; color:#fff; }
+.defaultd_btn { background:#444; color:#fff; }
+.ok_btn { background:#74b20e; color:#fff; }
+.warn_btn { background:#f5a91e; color:#fff; }
+.delete_btn { background:#ac3737; color:#fff; }
+.send_btn { color:#f6f6f6; }
+
+/* default username color */
+.user { color:#fff; }
+
+/* chat system messsage text color */
+.chat_system { color:#bbb; }
+
+/* opacity for offline users in list */
+.offline { opacity:0.5; }
+
+/* menu icon */
+.menui { color:#3b6cff; }
+.subi { color:#3b6cff; }
+
+/* wall reply background */
+.reply_item { background:#0a1b4d; }
+
+/* main post item option wall and news */
+.main_post_item { color:#7b87a8; }
+
+/* input option background colors */
+.input_item { color:#7b87a8; }
+
+/* private log bubble colors */
+.target_private, .hunt_quote {color:#fff; background:#274293;}
+.hunter_private, .targ_quote {color:#fff; background:#3b6cff;}
+
+/* quote in chat background color */
+.cquote { background:rgb(255,255,255,0.08) !important; }
+.cqname { color:#fff; }
+.cqmess { color:#bbb; }
+
+/* tab menu */
+.tab_menu{background:#030f31;box-shadow:0 1px 3px rgb(0,0,0,.4)}
+.tab_selected { background:rgb(255,255,255,0.05); }
+
+/* modal menu */
+.modal_mback { background:rgb(255,255,255,0.04); }
+.modal_mborder { border-bottom: 1px solid rgb(255,255,255,0.08); }
+.modal_selected { background:rgb(255,255,255,0.08); }
+
+/* back transparency background for modal box */
+.modal_back { background-color:rgba(0,0,0,0.6); }
+
+/* chat logs */
+.log2 { background:rgb(255,255,255,0.01); }
+.topic_log{background:rgb(28,43,83,.55);color:#fff;margin:5px auto;border-radius:4px;width:95%;max-width:800px;}
+.chat_log:not(:last-child){border-bottom:1px dashed rgb(255,255,255,.09)}
+.sys_log { }
+
+/* upload progress */
+.bprogress { background:#74b20e; color:#fff; }
+
+/* notification colors */
+.bnotify { background:#d81818; color:#fff; }
+.foot_notify, .head_notify { border:1px solid #fff; }
+
+/* date colors */
+.sub_date,.sub_chat,.sub_priv{font-weight:700;color:#bbb}
+
+/* secondary text color */
+.sub_text, .list_mood  { color:#bbb; font-weight: 300;}
+
+/* profile likes */
+.plikes { background-color:rgba(100,100,100,0.2); color:#fff; }
+
+/* spinner color */
+.bspin { color:rgb(255,255,255,0.3); }
+
+/* special chat item */
+.my_notice { color:#fff; background:#3b6cff; }
+.system_text { background:rgb(255,255,255,0.05); color:#888; }
+
+/* outside pages background */
+.back_page { background:#111; color:#fff; }
+
+/* video background color */
+.post_video { background:rgb(0,0,0,1); }
+
+/* slider */
+.boom_slider .ui-widget-content { background: #fff; }
+.boom_slider .ui-state-default { background: #3b6cff !important; }
+.boom_slider .ui-state-active { background: #2a5cf1 !important; }
+.boom_slider .ui-slider-range { background:#3b6cff; }
+
+/* select input color */
+.selectboxit-list,.selectboxit-btn{background-color:#030f31;border:1px solid rgb(123,134,171,.149);color:#fff}
+.selectboxit-list .selectboxit-focus .selectboxit-option-anchor{background-color:rgb(255,255,255,.08);color:#fff}
+.selectboxit-default-arrow{border-top:4px solid #bbb}
+.selectboxit-btn.selectboxit-enabled:hover,.selectboxit-btn.selectboxit-enabled:focus,.selectboxit-btn.selectboxit-enabled:active{background:#030f31;box-shadow:inset 0 0 30px rgb(0,0,0,.439);color:#fff}
+.selectboxit-options{background:#0a1b4d;color:#fff}
+.selectboxit-list .selectboxit-option-anchor{color:#bbb}
+
+/* custom */
+.modal_in { border:1px solid rgb(255,255,255,0.01); } 
+
+/* responsive */
+@media screen and (max-width: 1200px){
+    .back_panel,.back_pmenu{background:rgb(0,8,30,0.90)}
+}

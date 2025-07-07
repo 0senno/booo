@@ -1,0 +1,36 @@
+<?php
+$nlang['like'] = 'وجد رد فعل على واحدة من مشاركتك';
+$nlang['reply'] = 'علق على واحدة من مشاركتك';
+$nlang['add_post'] = 'نشر شيء على الحائط';
+$nlang['accept_friend'] = 'قبلت طلب صديقك';
+$nlang['word_mute'] = 'لقد تم كتم المستخدم %delay% بسبب كلمة سيئة';
+$nlang['flood_mute'] = 'تم كتم حسابك %delay% بسبب الفيضانات';
+$nlang['spam_mute'] = 'لقد تم كتم حساب %delay%  بسبب الرسائل غير المرغوب فيها';
+$nlang['rank_change'] = 'تم تغيير رتبتك أنت الآن %rank%';
+$nlang['mute'] = 'لقد تم كتم حساب %delay%';
+$nlang['unmute'] = 'لقد تم إلغاء كتم';
+$nlang['name_change'] = 'تم تغيير اسم المستخدم الخاص بك لـ %data%';
+$nlang['prolike'] = 'قام بإعجاب بروفايلك';
+$nlang['main_mute'] = 'تم كتمك في الدردشة الرئيسية لمدة %delay%';
+$nlang['private_mute'] = 'تم كتمك في الدردشة الخاصة لمدة %delay%';
+$nlang['main_unmute'] = 'تم إلغاء كتمك في الدردشة الرئيسية';
+$nlang['private_unmute'] = 'تم إلغاء كتم الدردشة الخاصة بك';
+$nlang['gold_share'] = 'قام بمشاركة %data% من الذهب معك';
+$nlang['gift'] = 'قام بإرسال هدية لك';
+$nlang['vipgift'] = 'قام بإرسال عضوية VIP لك';
+$nlang['vipsys'] = 'تمت إضافة عضوية VIP إلى حسابك';
+$nlang['custom'] = '%custom%';
+$nlang['mcall'] = 'مكالمة فائتة';
+$nlang['ruby_share'] = 'قام بمشاركة %data% ياقوت معك';
+$nlang['level'] = 'رائع! لقد وصلت إلى مستوى الخبرة %data%';
+$nlang['badge_ruby'] = 'لقد حصلت على شارة تاجر الياقوت المستوى %data%';
+$nlang['badge_member'] = 'لقد حصلت على شارة عضو المجتمع';
+$nlang['badge_chat'] = 'لقد حصلت على شارة العضو النشط المستوى %data%';
+$nlang['badge_auth'] = 'لقد حصلت على شارة العضو الموثق';
+$nlang['badge_gift'] = 'لقد حصلت على شارة حارس الهدايا المستوى %data%';
+$nlang['badge_like'] = 'لقد حصلت على شارة العضو المحبوب المستوى %data%';
+$nlang['badge_friend'] = 'لقد حصلت على شارة العضو الصديق المستوى %data%';
+$nlang['badge_gold'] = 'لقد حصلت على شارة تاجر الذهب المستوى %data%';
+$nlang['badge_beat'] = 'لقد حصلت على شارة العضو المتفاني المستوى %data%';
+$nlang['badge_top'] = 'لقد حصلت على شارة الفائز الأعلى المستوى %data%';
+?>
