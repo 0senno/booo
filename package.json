@@ -1,0 +1,20 @@
+{
+  "name": "codychat-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "automation/bot.js",
+  "scripts": {
+    "test": "node --check automation/bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "puppeteer-extra": "^4.2.1",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "inquirer": "^9.0.0",
+    "@zennolab_com/capmonstercloud-client": "^1.0.6",
+    "ws": "^8.0.0"
+  }
+}
